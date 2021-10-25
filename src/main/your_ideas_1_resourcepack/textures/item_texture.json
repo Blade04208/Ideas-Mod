@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "lemshin": {
+      "textures": "textures/items/lemshin"
+    },
+    "lemshin_pickaxe": {
+      "textures": "textures/items/lemshinpickaxe"
+    }
+  }
+}

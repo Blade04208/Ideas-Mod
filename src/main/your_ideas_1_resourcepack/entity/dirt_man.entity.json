@@ -1,0 +1,45 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "your_ideas_1:dirt_man",
+      "textures": {
+        "default": "textures/sigh.png",
+        "farmer": "textures/sigh.png",
+        "librarian": "textures/sigh.png",
+        "priest": "textures/sigh.png",
+        "smith": "textures/sigh.png",
+        "butcher": "textures/sigh.png"
+      },
+      "materials": {
+        "default": "villager"
+      },
+      "geometry": {
+        "default": "geometry.villager"
+      },
+      "scripts": {
+        "scale": "0.9375"
+      },
+      "animations": {
+        "general": "animation.villager.general.v1.0",
+        "look_at_target": "animation.common.look_at_target",
+        "move": "animation.villager.move",
+        "baby_transform": "animation.villager.baby_transform"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.villager.general"
+        },
+        {
+          "move": "controller.animation.villager.move"
+        },
+        {
+          "baby": "controller.animation.villager.baby"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.villager.v1.0"
+      ]
+    }
+  }
+}

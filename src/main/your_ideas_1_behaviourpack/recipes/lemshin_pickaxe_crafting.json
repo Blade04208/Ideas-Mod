@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "your_ideas_1:lemshin_pickaxe_crafting"
+    },
+    "groups": [
+      "your_ideas"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "your_ideas_1:lemshin"
+      },
+      {
+        "item": "your_ideas_1:lemshin"
+      },
+      {
+        "item": "your_ideas_1:lemshin"
+      },
+      {
+        "item": "minecraft:stick"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ],
+    "result": {
+      "item": "your_ideas_1:lemshin_pickaxe",
+      "count": 1
+    }
+  }
+}

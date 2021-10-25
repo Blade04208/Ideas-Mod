@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Your Ideas",
+    "uuid": "e4b27856-faab-3bc0-9c84-2913f47a8353",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "92cf0b73-fc90-3f06-87c7-2de1e7e2bf9f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1068d220-d39e-3622-be81-03f171effb9e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Milo, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

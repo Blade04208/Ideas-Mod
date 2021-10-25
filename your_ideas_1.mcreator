@@ -1,0 +1,81 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SpookyForest",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spooky_forest"
+    },
+    {
+      "name": "Lemshin",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lemshin"
+    },
+    {
+      "name": "LemshinPickaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lemshin_pickaxe"
+    },
+    {
+      "name": "LemshinPickaxeCrafting",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lemshin_pickaxe_crafting"
+    },
+    {
+      "name": "DirtMan",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_man"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.your_ideas_1:lemshin_pickaxe.name": "Lemshin Pickaxe",
+      "item.spawn_egg.entity.your_ideas_1:dirt_man.name": "Dirt Man Spawn Egg",
+      "item.your_ideas_1:lemshin.name": "Lemshin"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "your_ideas_1",
+    "modName": "Your Ideas",
+    "version": "1.0.0",
+    "author": "Milo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "modElementsPackage": "net.mcreator.yourideas",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
